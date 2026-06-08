@@ -54,7 +54,7 @@ I apply **machine learning & generative AI** to real problems—ranging from **O
 
 ---
 
-## 📜 README Badges (optional)
+## 📜 README Badges
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue">
   <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-Quantum-purple">
